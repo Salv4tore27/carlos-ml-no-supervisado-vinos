@@ -1,0 +1,15 @@
+{
+  "muestras": 178,
+  "variables": 13,
+  "silueta_k3": 0.2848589191898987,
+  "silueta_ward": 0.2774439826952266,
+  "silueta_gmm": 0.2844212860533542,
+  "ari_k3": 0.8974949815093207,
+  "ari_ward": 0.7899332213582837,
+  "ari_gmm": 0.8803997758776985,
+  "varianza_pca2": 0.5540633835693526,
+  "error_svd2": 0.6677848578926052,
+  "diferencia_pca_svd": 3.3306690738754696e-15,
+  "mejor_k_silueta": 3,
+  "silueta_mejor": 0.2848589191898987
+}
